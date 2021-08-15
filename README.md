@@ -1,15 +1,17 @@
-# UW-Madison-Campus-Map
+# Feel Good App
 
 # About the app
 
-Developed an Java application in a team of four for CS 400 group project which mapped popular campus buildings on a graph and uses Dijkstra's shortest path algorithm to give users a estimate on how long the walk between the selected buildings are.
+Developed an Python GUI application with user sign up and login which displays quotes based on how the user is feeling.
 
 # What I learned
 
-I learned to implement the graph data structure and Dijkstra's shortest path algorithm. Working as a test engineer on this project helped me gain experience in unit testing with the JUnit framework. 
+I gained experience in using the Kivy library and creating user login/sign up features.
 
 # Preview of the application
 
-Users interact with the application from console.
 
-![App preview](Picture3.png?raw=true)
+![App login preview](picture4.png?raw=true)
+
+
+![App preview](picture5.png?raw=true)
